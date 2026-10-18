@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main(){
-  print("Welcome to the Budgest Management Interface");
+  print("Welcome to the Budget Management Interface");
 
   List<Map<String, dynamic>> ListIncome = [];
   List<Map<String, dynamic>> ListExpense = [];
